@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     "service_two",
     "service_three",
     "storages",
-    "django_celery_results"
+    "django_celery_results",
+    "rest_framework"
 ]
 
 # STATICFILES_STORAGE = "storages.backends.s3boto3.S3Boto3Storage"
